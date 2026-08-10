@@ -300,22 +300,6 @@ Add photographs of:
 
 ---
 
-## 📈 Results
-
-Record your actual measurements here after testing:
-
-| Test            | Voltage Generated | Current | Notes |
-| --------------- | ----------------: | ------: | ----- |
-| Single Footstep |                 — |       — | —     |
-| 10 Steps        |                 — |       — | —     |
-| 50 Steps        |                 — |       — | —     |
-| Normal Walking  |                 — |       — | —     |
-| Fast Walking    |                 — |       — | —     |
-
-> Replace the values with measurements obtained from your actual prototype. Do not add estimated values unless clearly identified as estimates.
-
----
-
 ## 🌱 Applications
 
 Potential applications include:
